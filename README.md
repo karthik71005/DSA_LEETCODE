@@ -103,6 +103,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
+| [0143-reorder-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0143-reorder-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
+| [0143-reorder-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0143-reorder-list/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0143-reorder-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -127,4 +130,8 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
