@@ -120,6 +120,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0152-maximum-product-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +148,5 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0053-maximum-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 <!---LeetCode Topics End-->
