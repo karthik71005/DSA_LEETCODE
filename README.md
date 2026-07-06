@@ -174,4 +174,12 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
