@@ -118,6 +118,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0057-insert-interval/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0525-contiguous-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0525-contiguous-array/) | Medium |
