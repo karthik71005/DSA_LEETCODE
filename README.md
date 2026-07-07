@@ -126,6 +126,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0724-find-pivot-index](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0986-interval-list-intersections](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Two Pointers
@@ -133,6 +134,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0986-interval-list-intersections](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,4 +193,8 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0056-merge-intervals/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
