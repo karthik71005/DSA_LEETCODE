@@ -133,6 +133,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -193,6 +194,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -209,6 +211,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
