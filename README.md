@@ -191,6 +191,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0560-subarray-sum-equals-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## String
@@ -198,12 +199,14 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
