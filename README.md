@@ -134,6 +134,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +212,8 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0986-interval-list-intersections](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3838-weighted-word-mapping](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
