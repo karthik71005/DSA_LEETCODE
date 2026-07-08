@@ -109,6 +109,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
