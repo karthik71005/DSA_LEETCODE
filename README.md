@@ -131,6 +131,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0986-interval-list-intersections](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1646-get-maximum-in-generated-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -223,6 +224,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1646-get-maximum-in-generated-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
