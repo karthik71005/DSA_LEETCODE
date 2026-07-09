@@ -190,6 +190,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0525-contiguous-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -202,6 +203,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
@@ -219,6 +221,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0056-merge-intervals/) | Medium |
+| [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Sweep Line
 | Problem Name | Difficulty |
