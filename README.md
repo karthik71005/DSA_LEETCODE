@@ -208,6 +208,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2129-capitalize-the-title](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2129-capitalize-the-title/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
