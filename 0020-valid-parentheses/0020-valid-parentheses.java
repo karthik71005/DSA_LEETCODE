@@ -9,7 +9,7 @@ class Solution {
             {
                 return false;
             }
-            if(current=='}')
+            else if(current=='}')
             {
                 if(count.peek()=='{')
                     count.pop();
