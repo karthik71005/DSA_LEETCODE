@@ -4,25 +4,26 @@ class Solution {
 
         for(int i =0;i<s.length();i++)
         {
-            if(count.isEmpty() && (s.charAt(i)=='}'||s.charAt(i)==')'||s.charAt(i)==']'))
+            char current = s.charAt(i);
+            if(count.isEmpty() && (current=='}'||current==')'||current==']'))
             {
                 return false;
             }
-            if(s.charAt(i)=='}')
+            if(current=='}')
             {
                 if(count.peek()=='{')
                     count.pop();
                 else
                     return false;
             }
-            else if(s.charAt(i)==']')
+            else if(current==']')
             {
                 if(count.peek()=='[')
                     count.pop();
                 else
                     return false;
             }
-            else if(s.charAt(i)==')')
+            else if(current==')')
             {
                 if(count.peek()=='(')
                     count.pop();
@@ -30,7 +31,7 @@ class Solution {
                     return false;
             }
             else
-                count.push(s.charAt(i));
+                count.push(current);
 
         }
         if(!count.isEmpty())
