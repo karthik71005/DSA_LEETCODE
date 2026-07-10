@@ -135,6 +135,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -200,6 +201,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -222,6 +224,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
