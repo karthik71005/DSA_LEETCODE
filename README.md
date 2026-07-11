@@ -143,6 +143,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Two Pointers
@@ -159,6 +160,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3158-find-the-xor-of-numbers-which-appear-twice/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
