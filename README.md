@@ -211,6 +211,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0409-longest-palindrome/) | Easy |
 | [0496-next-greater-element-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -234,6 +235,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0383-ransom-note](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
+| [0409-longest-palindrome](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0409-longest-palindrome/) | Easy |
 | [0520-detect-capital](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0520-detect-capital/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -284,4 +286,5 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
+| [0409-longest-palindrome](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0409-longest-palindrome/) | Easy |
 <!---LeetCode Topics End-->
