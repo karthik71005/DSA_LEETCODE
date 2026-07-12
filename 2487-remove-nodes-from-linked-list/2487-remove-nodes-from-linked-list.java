@@ -21,13 +21,14 @@ class Solution {
         int max = Integer.MIN_VALUE;
         while(!stack.isEmpty())
         {
-            ListNode node = stack.pop();
+            ListNode node = stack.peek();
             if(node.val>=max)
             {
                 max = node.val;
                 node.next = result;
                 result = node;
             }
+            stack.pop();
         }
         return result;
     }
