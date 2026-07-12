@@ -1,6 +1,9 @@
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         HashMap<Character,Integer> freq = new HashMap<>();
+        if (ransomNote.length() > magazine.length()) {
+            return false;
+        }
         for(char ch:magazine.toCharArray())
         {
             freq.put(ch,freq.getOrDefault(ch,0)+1);
