@@ -207,6 +207,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -225,6 +226,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0383-ransom-note](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0520-detect-capital](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0520-detect-capital/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -237,6 +239,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0383-ransom-note](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
