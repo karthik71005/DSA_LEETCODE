@@ -166,6 +166,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0143-reorder-list/) | Medium |
+| [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
@@ -221,6 +222,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0520-detect-capital](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0520-detect-capital/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -257,7 +259,12 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
