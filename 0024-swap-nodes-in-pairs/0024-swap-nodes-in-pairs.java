@@ -1,5 +1,5 @@
 class Solution {
-    public ListNode swapPairs(ListNode head) {
+    public ListNode swapPairs1(ListNode head) {
         ListNode dummy = new ListNode(0);
         dummy.next = head;
         ListNode prev = dummy;
@@ -27,5 +27,60 @@ class Solution {
 
         // Return the new front of the pair (which was the second node)
         return second;
+    }
+    public ListNode swapPairs(ListNode head) {
+        int k=2;
+        if (head == null || k == 1) return head;
+        ListNode left = head;
+        ListNode previousLeft = null;
+        ListNode nextLeft =null;
+        ListNode res = null;
+        ListNode right = null;
+        int i =0;
+        
+        while(true)
+        {
+            right = left;
+            for(i =0;i<(k-1);i++){
+                if(right == null)
+                    break;
+                right=right.next;
+            }
+            if (right == null) {
+                break; 
+            }
+            nextLeft = right.next;
+            ListNode reversedHead = reverse(left,k);
+            if(res == null)
+                res =reversedHead;
+            
+
+            if(previousLeft!=null)
+            {
+                previousLeft.next =reversedHead;
+            }
+
+            left.next =nextLeft;
+            previousLeft=left;
+            left=nextLeft;
+           
+
+
+        }
+        return res != null ? res : head;
+        
+    }
+    public ListNode reverse(ListNode temp,int k){
+        ListNode curr = temp;
+        ListNode prev = null;
+        while(k!=0)
+        {
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev= curr;
+            curr = next;
+            k--;
+        }
+        return prev;
     }
 }
