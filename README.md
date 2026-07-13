@@ -107,6 +107,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0025-reverse-nodes-in-k-group](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0143-reorder-list/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -161,6 +162,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0143-reorder-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0986-interval-list-intersections](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
