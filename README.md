@@ -114,6 +114,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -163,12 +164,14 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0061-rotate-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0061-rotate-list/) | Medium |
 | [0143-reorder-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0986-interval-list-intersections](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
