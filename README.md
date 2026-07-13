@@ -133,6 +133,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0056-merge-intervals](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0057-insert-interval/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -171,6 +172,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
