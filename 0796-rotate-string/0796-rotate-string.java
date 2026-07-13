@@ -1,5 +1,5 @@
 class Solution {
-    public boolean rotateString1(String s, String goal) {
+    public boolean rotateString(String s, String goal) {
         if(s.length()!=goal.length())
             return false;
         
@@ -20,7 +20,7 @@ class Solution {
         }
         return false;
     }
-    public boolean rotateString(String s, String goal) {
+    public boolean rotateStringlazy(String s, String goal) {
         if(s.length()!=goal.length())
             return false;
         
