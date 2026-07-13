@@ -132,6 +132,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0053-maximum-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0057-insert-interval/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -172,6 +173,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -311,4 +313,8 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0796-rotate-string/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
