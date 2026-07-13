@@ -246,6 +246,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0409-longest-palindrome/) | Easy |
 | [0520-detect-capital](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0520-detect-capital/) | Easy |
+| [0796-rotate-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -297,4 +298,8 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0409-longest-palindrome/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
