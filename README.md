@@ -140,6 +140,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0560-subarray-sum-equals-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0986-interval-list-intersections](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
@@ -172,6 +173,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
