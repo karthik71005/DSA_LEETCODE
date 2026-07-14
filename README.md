@@ -156,6 +156,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3005-count-elements-with-maximum-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3131-find-the-integer-added-to-array-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
@@ -180,6 +181,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
