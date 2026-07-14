@@ -138,6 +138,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0275-h-index-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0525-contiguous-array/) | Medium |
@@ -207,6 +208,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -236,6 +238,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0409-longest-palindrome/) | Easy |
@@ -277,6 +280,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -293,6 +297,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0056-merge-intervals](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -331,8 +336,14 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
