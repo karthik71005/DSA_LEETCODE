@@ -150,6 +150,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -181,6 +182,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -289,6 +291,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0056-merge-intervals](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Sweep Line
 | Problem Name | Difficulty |
