@@ -103,6 +103,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0061-rotate-list/) | Medium |
@@ -211,6 +212,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -353,6 +355,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0502-ipo](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0502-ipo/) | Hard |
@@ -382,4 +385,8 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
