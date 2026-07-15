@@ -147,6 +147,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0503-next-greater-element-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
@@ -253,6 +254,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0496-next-greater-element-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -295,6 +297,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0621-task-scheduler](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -313,6 +316,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0502-ipo](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0502-ipo/) | Hard |
+| [0621-task-scheduler](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -343,6 +347,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0409-longest-palindrome/) | Easy |
 | [0502-ipo](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0502-ipo/) | Hard |
+| [0621-task-scheduler](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -359,6 +364,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0502-ipo](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0502-ipo/) | Hard |
+| [0621-task-scheduler](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
