@@ -115,6 +115,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -147,6 +148,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0739-daily-temperatures](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0986-interval-list-intersections](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -210,6 +212,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +301,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -337,13 +341,19 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
