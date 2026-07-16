@@ -224,6 +224,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
@@ -277,6 +278,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -402,4 +404,8 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
