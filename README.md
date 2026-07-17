@@ -204,6 +204,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0496-next-greater-element-i/) | Easy |
@@ -411,4 +412,16 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
