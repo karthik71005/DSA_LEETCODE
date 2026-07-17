@@ -426,6 +426,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0144-binary-tree-preorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
@@ -437,6 +438,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0144-binary-tree-preorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -450,6 +452,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0144-binary-tree-preorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
@@ -464,5 +467,6 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
