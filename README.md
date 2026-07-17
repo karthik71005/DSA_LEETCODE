@@ -250,6 +250,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0383-ransom-note/) | Easy |
@@ -277,6 +278,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0242-valid-anagram/) | Easy |
@@ -407,5 +409,6 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
