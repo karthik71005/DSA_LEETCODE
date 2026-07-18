@@ -36,6 +36,7 @@ class Solution {
         }
         PathSum(root.left,sum,k,myDiary);
         PathSum(root.right,sum,k,myDiary);
+        myDiary.remove(myDiary.size() - 1);
         
     }
 }
