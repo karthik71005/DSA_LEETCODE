@@ -30,11 +30,11 @@ class Solution {
                 stck.push(curr);
                 curr = curr.left;
              }
-             TreeNode temp = stck.pop();
+              curr = stck.pop();
              k--;
              if(k==0)
-                return temp.val;
-            curr = temp.right;
+                return curr.val;
+            curr = curr.right;
         }
     return -1;    
     }
