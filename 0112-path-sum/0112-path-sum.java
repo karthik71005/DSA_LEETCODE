@@ -12,20 +12,45 @@
  *         this.right = right;
  *     }
  * }
- */
-class Solution {
+//  */
+// class Solution {
     
+//     public boolean hasPathSum(TreeNode root, int targetSum) {
+//         if(root==null)
+//             return false;
+        
+//         if(root.left == null &&root.right==null)
+//         {
+//             return root.val==targetSum;
+//         }
+//         int remainingSum = targetSum-root.val;
+//         return hasPathSum(root.left,remainingSum)||hasPathSum(root.right,remainingSum);
+        
+//     }
+    
+// }
+
+class Solution {
+    private boolean res = false;
     public boolean hasPathSum(TreeNode root, int targetSum) {
+        int sum =0;
+        PathSum(root,sum,targetSum);
+        return res;
+               
+    }
+    private void PathSum(TreeNode root,int sum ,int k){
         if(root==null)
-            return false;
-        
-        if(root.left == null &&root.right==null)
+            return;
+        sum+=root.val;
+        if(root.left == null&&root.right==null)
         {
-            return root.val==targetSum;
+            if(sum == k)
+                res = true;
+            return;
         }
-        int remainingSum = targetSum-root.val;
-        return hasPathSum(root.left,remainingSum)||hasPathSum(root.right,remainingSum);
-        
+        PathSum(root.left,sum,k);
+        PathSum(root.right,sum,k);
+
     }
     
 }
