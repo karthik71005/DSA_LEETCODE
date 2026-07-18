@@ -39,7 +39,7 @@ class Solution {
                
     }
     private void PathSum(TreeNode root,int sum ,int k){
-        if(root==null)
+        if(root==null||res)
             return;
         sum+=root.val;
         if(root.left == null&&root.right==null)
