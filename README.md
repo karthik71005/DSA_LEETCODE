@@ -416,6 +416,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
+| [0113-path-sum-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,6 +427,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -444,6 +446,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0100-same-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -463,6 +466,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
