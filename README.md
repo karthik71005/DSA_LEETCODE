@@ -182,6 +182,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0143-reorder-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0986-interval-list-intersections](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Binary Search
@@ -263,6 +264,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0525-contiguous-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0621-task-scheduler/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -428,6 +430,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0226-invert-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -440,6 +443,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0226-invert-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +458,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0226-invert-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -464,9 +469,11 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
