@@ -142,6 +142,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0275-h-index-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -378,6 +379,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -466,6 +468,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -507,6 +510,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -519,4 +523,8 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
