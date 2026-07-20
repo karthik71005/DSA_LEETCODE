@@ -302,6 +302,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0402-remove-k-digits](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0402-remove-k-digits/) | Medium |
 | [0409-longest-palindrome](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0409-longest-palindrome/) | Easy |
 | [0520-detect-capital](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0520-detect-capital/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0796-rotate-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0796-rotate-string/) | Easy |
@@ -352,6 +353,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3324-find-the-sequence-of-strings-appeared-on-the-screen/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/karthik71005/DSA_LEETCODE/tree/main/3838-weighted-word-mapping/) | Easy |
