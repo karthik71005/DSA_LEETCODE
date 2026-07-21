@@ -474,6 +474,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0145-binary-tree-postorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -519,6 +520,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0112-path-sum](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -544,10 +546,12 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0684-redundant-connection/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->
