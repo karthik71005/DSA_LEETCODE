@@ -487,6 +487,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,6 +534,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -550,6 +552,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0547-number-of-provinces](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -558,6 +561,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0547-number-of-provinces](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
