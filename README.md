@@ -140,6 +140,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0074-search-a-2d-matrix](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0130-surrounded-regions](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
@@ -382,6 +383,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0130-surrounded-regions](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 ## Heap (Priority Queue)
@@ -470,6 +472,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0112-path-sum](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0113-path-sum-ii/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0130-surrounded-regions](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
@@ -519,6 +522,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0112-path-sum](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0112-path-sum/) | Easy |
+| [0130-surrounded-regions](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0210-course-schedule-ii/) | Medium |
@@ -541,6 +545,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0684-redundant-connection/) | Medium |
