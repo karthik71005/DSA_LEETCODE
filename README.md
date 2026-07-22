@@ -168,6 +168,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [1331-rank-transform-of-an-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -201,6 +202,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/karthik71005/DSA_LEETCODE/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -386,6 +388,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0130-surrounded-regions](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -399,6 +402,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0743-network-delay-time](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -489,6 +493,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0684-redundant-connection](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -537,6 +542,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -555,6 +561,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0547-number-of-provinces](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
