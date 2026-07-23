@@ -158,6 +158,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0692-top-k-frequent-words](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -200,6 +201,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0275-h-index-ii](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0275-h-index-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -387,6 +389,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0074-search-a-2d-matrix](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0130-surrounded-regions](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Heap (Priority Queue)
@@ -401,6 +404,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0692-top-k-frequent-words](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0743-network-delay-time](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0767-reorganize-string/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Quickselect
@@ -492,6 +496,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -539,6 +544,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0743-network-delay-time/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
@@ -560,6 +566,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0200-number-of-islands](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0684-redundant-connection/) | Medium |
+| [0778-swim-in-rising-water](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
