@@ -244,6 +244,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0053-maximum-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -405,6 +406,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0743-network-delay-time](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Quickselect
@@ -498,6 +500,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0743-network-delay-time](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
@@ -546,6 +549,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0743-network-delay-time](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -579,6 +583,7 @@ The goal of this repository is not simply to collect solutions, but to document 
 | [0684-redundant-connection](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/karthik71005/DSA_LEETCODE/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -589,4 +594,5 @@ The goal of this repository is not simply to collect solutions, but to document 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/karthik71005/DSA_LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
